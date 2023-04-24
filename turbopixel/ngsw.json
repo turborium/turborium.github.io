@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682348579289,
+  "timestamp": 1682350175327,
   "index": "https://turborium.github.io/turbopixel/index.html",
   "assetGroups": [
     {
@@ -66,7 +66,7 @@
     "https://turborium.github.io/turbopixel/assets/icons/icon-96x96.png": "6e6acdde0540c9b796506dd675934e0ba4d3ef32",
     "https://turborium.github.io/turbopixel/assets/watermark.png": "9664fb60d0c57e8bcc7ebd6dd3634ed73ea34fa3",
     "https://turborium.github.io/turbopixel/favicon.ico": "0a89d0023ba1115ade1fe1931859fff78d1bc54e",
-    "https://turborium.github.io/turbopixel/index.html": "e3ccc286c820ac32a1b0d15c6bcceeef6f450b94",
+    "https://turborium.github.io/turbopixel/index.html": "9ca4c997b63b0e9a43909fcd1ac7ad8dbb63d032",
     "https://turborium.github.io/turbopixel/main.696a50124a038b54.js": "4a9c5727e88e0dc8536393dfd7a20824029f532c",
     "https://turborium.github.io/turbopixel/manifest.webmanifest": "f2b66c67a2749dd24c69749667a859e0c4e850ca",
     "https://turborium.github.io/turbopixel/polyfills.bd06f87987d96d39.js": "8b7a71a8ce0d38430660a3d44ae01959c52316b0",
