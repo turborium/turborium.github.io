@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682317050348,
+  "timestamp": 1682348305224,
   "index": "https://turborium.github.io/turbopixel/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://turborium.github.io/turbopixel/manifest.webmanifest",
         "https://turborium.github.io/turbopixel/polyfills.bd06f87987d96d39.js",
         "https://turborium.github.io/turbopixel/runtime.364c99f51eb11600.js",
-        "https://turborium.github.io/turbopixel/styles.6630a488f8d75af7.css"
+        "https://turborium.github.io/turbopixel/styles.a0dc64fe8607e1cb.css"
       ],
       "patterns": []
     },
@@ -29,8 +29,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://turborium.github.io/turbopixel/appicons.4d68e5b85c9e3c76.ttf",
-        "https://turborium.github.io/turbopixel/appicons.e86e68c76b1be78b.woff",
         "https://turborium.github.io/turbopixel/assets/appicons.ttf",
         "https://turborium.github.io/turbopixel/assets/appicons.woff",
         "https://turborium.github.io/turbopixel/assets/icons/icon-128x128.png",
@@ -50,8 +48,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://turborium.github.io/turbopixel/appicons.4d68e5b85c9e3c76.ttf": "402a417b711c460f64a458308057ab76b283ec92",
-    "https://turborium.github.io/turbopixel/appicons.e86e68c76b1be78b.woff": "ea07343607e72e4bb48075ee47e10970bed04ec0",
     "https://turborium.github.io/turbopixel/assets/appicons.ttf": "402a417b711c460f64a458308057ab76b283ec92",
     "https://turborium.github.io/turbopixel/assets/appicons.woff": "ea07343607e72e4bb48075ee47e10970bed04ec0",
     "https://turborium.github.io/turbopixel/assets/icons/icon-128x128.png": "d68cb3c556198c21312c99360ec99da6168d2276",
@@ -66,12 +62,12 @@
     "https://turborium.github.io/turbopixel/assets/icons/icon-96x96.png": "6e6acdde0540c9b796506dd675934e0ba4d3ef32",
     "https://turborium.github.io/turbopixel/assets/watermark.png": "9664fb60d0c57e8bcc7ebd6dd3634ed73ea34fa3",
     "https://turborium.github.io/turbopixel/favicon.ico": "0a89d0023ba1115ade1fe1931859fff78d1bc54e",
-    "https://turborium.github.io/turbopixel/index.html": "05b5d169bae33bf883c37d7d7059d479130e08cc",
+    "https://turborium.github.io/turbopixel/index.html": "a93698a101c3137e9036e37c0c9b1fb4bdf47ab6",
     "https://turborium.github.io/turbopixel/main.dff1327555bf17b2.js": "25e1dc79ad1752f97d2840ff7d7cc2c804fa6746",
     "https://turborium.github.io/turbopixel/manifest.webmanifest": "f2b66c67a2749dd24c69749667a859e0c4e850ca",
     "https://turborium.github.io/turbopixel/polyfills.bd06f87987d96d39.js": "8b7a71a8ce0d38430660a3d44ae01959c52316b0",
     "https://turborium.github.io/turbopixel/runtime.364c99f51eb11600.js": "497764c39425a7a36019b2153946e29eadf68e57",
-    "https://turborium.github.io/turbopixel/styles.6630a488f8d75af7.css": "3284d2e63737efb2ddf724ac302fe92a45f283a2"
+    "https://turborium.github.io/turbopixel/styles.a0dc64fe8607e1cb.css": "c4a571a2fa289dac531021286241ac89ebfb2ebe"
   },
   "navigationUrls": [
     {
