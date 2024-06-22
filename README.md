@@ -1,6 +1,7 @@
 # turborium.github.io
 /PWA/  
-КАКОЙ БАГОР!
+- [TurboPixel](https://turborium.github.io/turbopixel)
 
-- [TurboPixel](https://turborium.github.io/turbopixel) 
+/DEMOS/
+- [PocketGalaxyJs](https://turborium.github.io/demos/PocketGalaxyJs) 
 
