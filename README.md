@@ -1,6 +1,6 @@
 # turborium.github.io
 
-### [/Blog/](blog/blog.md) - Личный блог о технологиях
+### [/Blog/](blog/index.md) - Личный блог о технологиях
 
 /PWA/  
 - [TurboPixel](https://turborium.github.io/turbopixel)
